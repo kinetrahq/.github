@@ -1,4 +1,4 @@
-# Meridian
+# Kinetra
 
 Building software that helps professionals work smarter.
 
@@ -26,4 +26,4 @@ Some of our tools and libraries may be open sourced here as they mature.
 
 ---
 
-© Meridian
+© Kinetra 2026
