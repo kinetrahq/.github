@@ -32,6 +32,13 @@ Atlas is a calendar and scheduling platform built to integrate perfectly into th
 
 > Not in development yet.
 
+### Echo
+Notifications all in one convenient place.
+
+Echo is Meridian's own notification system, built specifically for team communication.
+
+> Not in development yet.
+
 ## Philosophy
 
 We believe professional software should be:
